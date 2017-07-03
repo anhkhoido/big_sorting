@@ -44,14 +44,20 @@ SAMPLE OUTPUT 0
 
 
 1
+
 3
+
 3
+
 5
+
 10
+
 31415926535897932384626433832795
 
 
-Explanation 0
+
+EXPLANATION 0
 
 
 The initial array of strings in unsorted is 31415926535897932384626433832795, 1, 3, 10, 3, 5. When we order each string by the real-world integer value it represents, we get:
