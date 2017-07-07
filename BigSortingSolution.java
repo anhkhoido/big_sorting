@@ -82,7 +82,8 @@ public class Client {
 
 
     /**
-     * This private static boolean method makes sure
+     * This private static boolean method makes sure the string represents
+     * a positive number and has no leading zeroes.
      *
      * @param s The {@link String} analyzed by the program.
      * @return true The method returns true if the {@link String} named s has no leading zeroes and represents a positive integer.
